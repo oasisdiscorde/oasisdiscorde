@@ -19,7 +19,6 @@
 
 <br>
 
-  <h3 align="center">Best ReadMe ever ❤</h3>
 
   <p align="center">
     A GitHub student account with wacky projects
@@ -30,12 +29,5 @@
   </p>
 
 
-<!--     ABOUTE THE PROJECT     -->
-
-## About the project
-My Github
-
-<!--     CONTACT ME     -->
-
-## Contact me
-`[CG] HӨNӨ ΣΔGLΣ 🦆#1337`
+## Me contactez :
+`">Oasis#0001`
