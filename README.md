@@ -1,4 +1,4 @@
-### Hi there 👋
+### OasisDiscord :
 
 <!--<div id="top"></div>-->
 
@@ -19,13 +19,8 @@
 
 <br>
 
-<p align="center">
-<h3>Oasis<h3>
-</p>
   
   <p align="center">
-    Développeur JS
-    <br />
     <a href="https://github.com/oasisdiscorde"><strong>My account gith hub»</strong></a>
     <br />
     <br />
