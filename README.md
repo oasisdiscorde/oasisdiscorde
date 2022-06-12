@@ -21,9 +21,9 @@
 
 
   <p align="center">
-    A GitHub student account with wacky projects
+    Développeur JS
     <br />
-    <a href="https://github.com/oasisdiscorde"><strong>Under Construction »</strong></a>
+    <a href="https://github.com/oasisdiscorde"><strong>My account gith hub»</strong></a>
     <br />
     <br />
   </p>
