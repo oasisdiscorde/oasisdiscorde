@@ -18,8 +18,11 @@
 
 
 <br>
-<h3>Oasis<h3>
 
+<p align="center">
+<h3>Oasis<h3>
+</p>
+  
   <p align="center">
     Développeur JS
     <br />
